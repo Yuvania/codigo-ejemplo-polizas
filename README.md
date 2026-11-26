@@ -1,4 +1,4 @@
-# Pólizas demo
+# Código de ejemplo de pólizas
 
 Repositorio **ficticio** de código Python que revisa el Agente Asesor Técnico del proyecto
 *Historias de Usuario* (curso de IA, Cenfotec). Representa "el sistema" sobre el que se
